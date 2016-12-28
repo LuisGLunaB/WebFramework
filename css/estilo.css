@@ -1,0 +1,25 @@
+@charset "utf-8";
+/*
+COMO IMPORTAR FUENTES PERSONALIZADAS
+@import url(https://fonts.googleapis.com/css?family=Italianno);
+
+@font-face {
+    font-family: Myriad Pro;
+    src: url(img/Myriad Pro Regular.ttf);
+}
+*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: black;
+}
+
+/*TABLETS*/
+@media screen and (max-width:1101px) {
+
+}
+
+/*CELULARES*/
+@media screen and (max-width:761px) {
+}
