@@ -138,14 +138,14 @@ h1,h2,h3,h4{margin: 2px;padding: 2px;}
 	background-position: center center;
 	background-repeat: no-repeat;
 }
-.bgs{background-attachment: scroll}
+.bgs{background-attachment: fixed !important;}
 
 .row {width: 100%; display: inline-block; float:left; text-align:center;}
 .res {width: 100%; height: auto;}
 
-.rel {position: relative;}
-.abs {position: absolute;}
-.fix {position: fixed;}
+.rel {position: relative !important;}
+.abs {position: absolute !important;}
+.fix {position: fixed !important;}
 .inblock{display:inline-block}
 .block{display:block;}
 
@@ -269,7 +269,7 @@ h1,h2,h3,h4{margin: 2px;padding: 2px;}
 	.t11{width: 91.6% !important;}
 	.t12{width: 100% !important;}
 
-	.tfl{float: left;} .tfr{float: right;}
+	.tfl{float: left !important;} .tfr{float: right !important;}
 
 	.ttxr{text-align:right !important;}
 	.ttxl{text-align:left !important;}
@@ -370,7 +370,7 @@ h1,h2,h3,h4{margin: 2px;padding: 2px;}
 	.m11{width: 91.6% !important;}
 	.m12{width: 100% !important;}
 
-	.mfl{float: left;} .mfr{float: right;}
+	.mfl{float: left !important;} .mfr{float: right !important;}
 
 	.mtxr{text-align:right !important;}
 	.mtxl{text-align:left !important;}
