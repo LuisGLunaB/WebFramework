@@ -41,27 +41,23 @@
 	
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="es-MX" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/plantilla.dwt.php" codeOutsideHTMLIsLocked="false" -->
+
 <head>
-	<?php 
-        include_once("./blocks/metas.php"); 
-        include_once("./blocks/scripts.php");
-    ?>
-    <link href="css/estructura.css" rel="stylesheet" type="text/css" />
-    <link href="css/estilo.css" rel="stylesheet" type="text/css" />
-    <!-- InstanceBeginEditable name="head" -->
+<?php include_once("./blocks/metas.php"); include_once("./blocks/scripts.php");?>
+<!-- InstanceBeginEditable name="head" -->
     <style type="text/css">
 		
     </style>
     <!-- InstanceEndEditable -->
 </head>
 
-<?php include_once("./blocks/header.php");?>
 <body onresize="spanner();" onload="spanner();">
+<?php include_once("./blocks/header.php");?>
     <!-- InstanceBeginEditable name="PreContainer" -->
     
 	<!-- InstanceEndEditable -->
     <div class="container">
-		<!-- InstanceBeginEditable name="Container" -->
+	<!-- InstanceBeginEditable name="Container" -->
         <form id="login" action="" method="post" enctype="multipart/form-data" name="login" target="_self">
         
         <input name="email" placeholder="Correo electrónico" type="text" size="50" /><br />
@@ -71,7 +67,8 @@
         </form>
         <!-- InstanceEndEditable -->
     </div>
-</body>
 <?php include_once("./blocks/footer.php");?>
-<script async type="text/javascript" src="./js/funciones.js"></script>
+</body>
+
+<?php include_once("./blocks/scripts2.php");?>
 <!-- InstanceEnd --></html>
