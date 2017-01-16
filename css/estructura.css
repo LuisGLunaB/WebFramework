@@ -246,6 +246,40 @@ h1,h2,h3,h4{margin: 2px;padding: 2px;}
 .pav40{padding-top: 40px; padding-bottom: 40px;}
 .pav50{padding-top: 50px; padding-bottom: 50px;}
 
+.f5{font-size: 5px !important;}
+.f6{font-size: 6px !important;}
+.f7{font-size: 7px !important;}
+.f8{font-size: 8px !important;}
+.f9{font-size: 9px !important;}
+.f10{font-size: 10px !important;}
+.f11{font-size: 11px !important;}
+.f12{font-size: 12px !important;}
+.f13{font-size: 13px !important;}
+.f14{font-size: 14px !important;}
+.f15{font-size: 15px !important;}
+.f16{font-size: 16px !important;}
+.f17{font-size: 17px !important;}
+.f18{font-size: 18px !important;}
+.f19{font-size: 19px !important;}
+.f20{font-size: 20px !important;}
+.f22{font-size: 22px !important;}
+.f24{font-size: 24px !important;}
+.f26{font-size: 26px !important;}
+.f28{font-size: 28px !important;}
+.f30{font-size: 30px !important;}
+.f32{font-size: 32px !important;}
+.f34{font-size: 34px !important;}
+.f36{font-size: 36px !important;}
+.f38{font-size: 38px !important;}
+.f40{font-size: 40px !important;}
+.f45{font-size: 45px !important;}
+.f50{font-size: 50px !important;}
+.f60{font-size: 60px !important;}
+.f70{font-size: 70px !important;}
+.f80{font-size: 80px !important;}
+.f90{font-size: 90px !important;}
+.f100{font-size: 100px !important;}
+
 /**************************************************************************************************/
 /***********************************************TABLETS********************************************/
 /**************************************************************************************************/
@@ -338,6 +372,40 @@ h1,h2,h3,h4{margin: 2px;padding: 2px;}
 	.tpav30{padding-top: 30px; padding-bottom: 30px;}
 	.tpav40{padding-top: 40px; padding-bottom: 40px;}
 	.tpav50{padding-top: 50px; padding-bottom: 50px;}
+
+	.tf5{font-size: 5px !important;}
+	.tf6{font-size: 6px !important;}
+	.tf7{font-size: 7px !important;}
+	.tf8{font-size: 8px !important;}
+	.tf9{font-size: 9px !important;}
+	.tf10{font-size: 10px !important;}
+	.tf11{font-size: 11px !important;}
+	.tf12{font-size: 12px !important;}
+	.tf13{font-size: 13px !important;}
+	.tf14{font-size: 14px !important;}
+	.tf15{font-size: 15px !important;}
+	.tf16{font-size: 16px !important;}
+	.tf17{font-size: 17px !important;}
+	.tf18{font-size: 18px !important;}
+	.tf19{font-size: 19px !important;}
+	.tf20{font-size: 20px !important;}
+	.tf22{font-size: 22px !important;}
+	.tf24{font-size: 24px !important;}
+	.tf26{font-size: 26px !important;}
+	.tf28{font-size: 28px !important;}
+	.tf30{font-size: 30px !important;}
+	.tf32{font-size: 32px !important;}
+	.tf34{font-size: 34px !important;}
+	.tf36{font-size: 36px !important;}
+	.tf38{font-size: 38px !important;}
+	.tf40{font-size: 40px !important;}
+	.tf45{font-size: 45px !important;}
+	.tf50{font-size: 50px !important;}
+	.tf60{font-size: 60px !important;}
+	.tf70{font-size: 70px !important;}
+	.tf80{font-size: 80px !important;}
+	.tf90{font-size: 90px !important;}
+	.tf100{font-size: 100px !important;}
 
 	#men .men{width:60%;left: 20%;}
 	/*TABLETS Horizontal*/
@@ -440,8 +508,41 @@ h1,h2,h3,h4{margin: 2px;padding: 2px;}
 	.mpav40{padding-top: 40px; padding-bottom: 40px;}
 	.pav50{padding-top: 50px; padding-bottom: 50px;}
 
-	#men .men{width:80%;left: 10%;}
+	.mf5{font-size: 5px !important;}
+	.mf6{font-size: 6px !important;}
+	.mf7{font-size: 7px !important;}
+	.mf8{font-size: 8px !important;}
+	.mf9{font-size: 9px !important;}
+	.mf10{font-size: 10px !important;}
+	.mf11{font-size: 11px !important;}
+	.mf12{font-size: 12px !important;}
+	.mf13{font-size: 13px !important;}
+	.mf14{font-size: 14px !important;}
+	.mf15{font-size: 15px !important;}
+	.mf16{font-size: 16px !important;}
+	.mf17{font-size: 17px !important;}
+	.mf18{font-size: 18px !important;}
+	.mf19{font-size: 19px !important;}
+	.mf20{font-size: 20px !important;}
+	.mf22{font-size: 22px !important;}
+	.mf24{font-size: 24px !important;}
+	.mf26{font-size: 26px !important;}
+	.mf28{font-size: 28px !important;}
+	.mf30{font-size: 30px !important;}
+	.mf32{font-size: 32px !important;}
+	.mf34{font-size: 34px !important;}
+	.mf36{font-size: 36px !important;}
+	.mf38{font-size: 38px !important;}
+	.mf40{font-size: 40px !important;}
+	.mf45{font-size: 45px !important;}
+	.mf50{font-size: 50px !important;}
+	.mf60{font-size: 60px !important;}
+	.mf70{font-size: 70px !important;}
+	.mf80{font-size: 80px !important;}
+	.mf90{font-size: 90px !important;}
+	.mf100{font-size: 100px !important;}
 
+	#men .men{width:80%;left: 10%;}
 	/*CELULARES Horizontal*/
 	@media (orientation: landscape) {
 		.container{width: 80%;}
